@@ -40,7 +40,7 @@ Send a file:
 Receive a file:
 
 
-### All the netcats
+### All the cats
 
 Powercat: https://github.com/besimorhino/powercat
 
