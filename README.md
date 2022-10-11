@@ -5,7 +5,7 @@ Notes and other extras related to SANS SEC560
 
 ## Day 2
 
-Auto-updated wordlist for pw guessing based on current, relevant seasons, months, and year:
+### Auto-updated wordlist for pw guessing based on current, relevant seasons, months, and year:
 
 http://weakpasswords.net/
 
