@@ -8,7 +8,6 @@ Notes and other extras related to SANS SEC560
 ### Other port and host scanning options
 
 RustScan: https://github.com/RustScan/RustScan
-
 How to write a port scanner in Go: https://github.com/jboursiquot/portscan
 PowerShell ping sweep example: 1..60 | % {echo $_; ping -n 1 -w 100 10.10.10.$_ | select-string ttl}
 PowerShell port scan example: 70..90 | % {echo $_; echo ((new-object Net.Sockets.TcpClient).Connect("10.10.10.50",$_)) "Port $_ is open" } 2>$null
