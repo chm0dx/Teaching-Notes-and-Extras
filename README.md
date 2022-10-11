@@ -7,6 +7,19 @@ Notes and other extras related to SANS SEC560
 ## Day 2
 
 
+### Proxying traffic and rotating source IP
+https://github.com/ustayready/fireprox (more for web traffic, but always worth mentioning)
+
+https://github.com/blacklanternsecurity/TREVORproxy
+
+https://github.com/Shellntel/scripts/blob/master/proxyCannon.py
+
+
+### PktMon - Windows native packet capture
+
+https://learn.microsoft.com/en-us/windows-server/networking/technologies/pktmon/pktmon
+
+
 ### Other port and host scanning options
 
 RustScan: https://github.com/RustScan/RustScan
@@ -22,21 +35,6 @@ PowerShell port scan example:
 ```
 70..90 | % {echo $_; echo ((new-object Net.Sockets.TcpClient).Connect("10.10.10.50",$_)) "Port $_ is open" } 2>$null
 ```
-
-### nmap in the movies: https://nmap.org/movies/
-
-### Proxying traffic and rotating source IP
-https://github.com/ustayready/fireprox (more for web traffic, but always worth mentioning)
-
-https://github.com/blacklanternsecurity/TREVORproxy
-
-https://github.com/Shellntel/scripts/blob/master/proxyCannon.py
-
-
-### PktMon - Windows native packet capture
-
-https://learn.microsoft.com/en-us/windows-server/networking/technologies/pktmon/pktmon
-
 
 ### Bash /dev/tcp fun
 
