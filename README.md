@@ -49,7 +49,11 @@ pwncat, "python netcat on steroids": https://github.com/cytopia/pwncat
 
 socat: https://linux.die.net/man/1/socat
 
-telnet ip port
+lolcat (lol): https://github.com/busyloop/lolcat
+- Awesome lolcat from Jeff McJunkin: while true; do fortune | cowsay -f $(find /usr/share/cowsay/cows/ -type f | sort -R | head -n1) |
+lolcat -a -s 40; sleep 2; done
+
+Can use telnet, too (although it is not a cat): telnet ip port
 
 
 ### Auto-updated wordlist for pw guessing based on current, relevant seasons, months, and year:
