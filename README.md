@@ -74,6 +74,9 @@ Can use telnet, too (although it is not a cat): telnet ip port
 http://weakpasswords.net/
 
 
+### Skull Security for useful lists: https://wiki.skullsecurity.org/index.php/Passwords
+
+
 ### Password Spraying
 
 DomainPasswordSpray: https://github.com/dafthack/DomainPasswordSpray/
