@@ -23,6 +23,7 @@ PowerShell port scan example:
 70..90 | % {echo $_; echo ((new-object Net.Sockets.TcpClient).Connect("10.10.10.50",$_)) "Port $_ is open" } 2>$null
 ```
 
+### nmap in the movies: https://nmap.org/movies/
 
 ### Proxying traffic and rotating source IP
 https://github.com/ustayready/fireprox (more for web traffic, but always worth mentioning)
