@@ -149,3 +149,8 @@ https://github.com/TheWover/donut
 Talk the Windows API directly with PowerShell: https://devblogs.microsoft.com/scripting/use-powershell-to-interact-with-the-windows-api-part-1/
 
 ## Day5
+
+
+### Public pentest reports:
+
+https://github.com/juliocesarfort/public-pentesting-reports
