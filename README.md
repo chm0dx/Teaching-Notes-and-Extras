@@ -69,13 +69,19 @@ lolcat -a -s 40; sleep 2; done
 Can use telnet, too (although it is not a cat): telnet ip port
 
 
-### NSE script using the Vulners.com API: https://github.com/vulnersCom/nmap-vulners
+### NSE script using the Vulners.com API
+
+https://github.com/vulnersCom/nmap-vulners
 
 
-### Auto-updated wordlist for pw guessing based on current, relevant seasons, months, and year: http://weakpasswords.net/
+### Auto-updated wordlist for pw guessing based on current, relevant seasons, months, and year
+
+http://weakpasswords.net/
 
 
-### Skull Security for useful lists: https://wiki.skullsecurity.org/index.php/Passwords
+### Skull Security for useful lists
+
+https://wiki.skullsecurity.org/index.php/Passwords
 
 
 ### Password Spraying
@@ -89,7 +95,9 @@ TrevorSpray: https://github.com/blacklanternsecurity/TREVORspray
 
 ## Day 3
 
-### Verizon Data Breach Investigation Report: https://www.verizon.com/business/resources/reports/dbir/
+### Verizon Data Breach Investigation Report
+
+https://www.verizon.com/business/resources/reports/dbir/
 
 
 ### Living off the land
@@ -99,13 +107,19 @@ Windows: https://lolbas-project.github.io/
 Linux: https://gtfobins.github.io/
 
 
-### PowerShell command history files: %userprofile%\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine
+### PowerShell command history files
+
+%userprofile%\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine
 
 
-### Daily builds of various C# security tools: https://github.com/Flangvik/SharpCollection
+### Daily builds of various C# security tools
+
+https://github.com/Flangvik/SharpCollection
 
 
-### Custom Bloodhound queries: https://github.com/hausec/Bloodhound-Custom-Queries
+### Custom Bloodhound queries
+
+https://github.com/hausec/Bloodhound-Custom-Queries
 
 
 ## Day 4
