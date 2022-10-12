@@ -122,6 +122,16 @@ https://github.com/Flangvik/SharpCollection
 https://github.com/hausec/Bloodhound-Custom-Queries
 
 
+### Python Bloodhound ingestor
+
+https://github.com/fox-it/BloodHound.py
+
+
+### Analyze group policy for issues, vulnerabilities:
+
+https://github.com/Group3r/Group3r
+
+
 ## Day 4
 
 
