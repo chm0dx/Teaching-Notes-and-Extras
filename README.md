@@ -1,5 +1,4 @@
-# 560-Extras
-Notes and other extras related to SANS SEC560
+# Teaching Notes & Extras
 
 ## Day 1
 
