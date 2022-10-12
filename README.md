@@ -131,6 +131,19 @@ https://github.com/fox-it/BloodHound.py
 https://github.com/Group3r/Group3r
 
 
+### Cracking
+
+NPK: https://github.com/c6fc/npk
+
+Distributed hashcat: https://github.com/hashtopolis/server
+
+High-value rule from different sets combined into one: https://github.com/NotSoSecure/password_cracking_rules/blob/master/OneRuleToRuleThemAll.rule
+
+KoreLogic masks: https://blog.korelogic.com/blog/2014/04/04/pathwell_topologies
+
+CrackStation's giant wordlist: https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm
+
+
 ## Day 4
 
 
