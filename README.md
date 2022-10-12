@@ -72,9 +72,7 @@ Can use telnet, too (although it is not a cat): telnet ip port
 ### NSE script using the Vulners.com API: https://github.com/vulnersCom/nmap-vulners
 
 
-### Auto-updated wordlist for pw guessing based on current, relevant seasons, months, and year:
-
-http://weakpasswords.net/
+### Auto-updated wordlist for pw guessing based on current, relevant seasons, months, and year: http://weakpasswords.net/
 
 
 ### Skull Security for useful lists: https://wiki.skullsecurity.org/index.php/Passwords
