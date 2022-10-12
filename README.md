@@ -143,6 +143,8 @@ KoreLogic masks: https://blog.korelogic.com/blog/2014/04/04/pathwell_topologies
 
 CrackStation's giant wordlist: https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm
 
+John Jumbo: https://github.com/openwall/john
+
 
 ## Day 4
 
