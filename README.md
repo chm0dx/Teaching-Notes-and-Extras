@@ -149,6 +149,9 @@ John Jumbo: https://github.com/openwall/john
 ## Day 4
 
 
+CrackMapExec: https://github.com/Porchetta-Industries/CrackMapExec
+
+
 ### AV Bypass
 
 DefenderCheck: https://github.com/matterpreter/DefenderCheck
