@@ -158,6 +158,8 @@ DefenderCheck: https://github.com/matterpreter/DefenderCheck
 
 AMSITrigger: https://github.com/RythmStick/AMSITrigger
 
+https://amsi.fail/
+
 https://github.com/phra/PEzor
 
 https://vanmieghem.io/blueprint-for-evading-edr-in-2022/
