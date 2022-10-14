@@ -7,7 +7,7 @@
 
 
 ### Proxying traffic and rotating source IP
-https://github.com/ustayready/fireprox (more for web traffic, but always worth mentioning)
+https://github.com/ustayready/fireprox
 
 https://github.com/blacklanternsecurity/TREVORproxy
 
